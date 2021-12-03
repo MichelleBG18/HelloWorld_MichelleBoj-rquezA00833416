@@ -98,5 +98,16 @@ int main() {
 }
 `
 
+[Markdown](https://www.markdownguide.org/cheat-sheet/)
 
+![Gran vista](Suiza.JPEG)
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 
