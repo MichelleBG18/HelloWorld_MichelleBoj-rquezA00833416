@@ -17,7 +17,8 @@
 - Tec21
 - Fin semestre
 
-`//Michelle Bojórquez Gómez / A00833416
+`
+//Michelle Bojórquez Gómez / A00833416
 #include <iostream>
 #include "Reloj.h"
 using namespace std;
@@ -94,7 +95,8 @@ int main() {
 	} while(opcion != 7);
 
 	return 0;
-}`
+}
+`
 
 
 
